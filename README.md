@@ -1,0 +1,1 @@
+# 6-3.Pointer-arguments-Sum-product-and-average-two-numbers
